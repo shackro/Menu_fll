@@ -1,0 +1,1 @@
+{"name":"Savanna Grill Digital Menu","short_name":"Savanna Grill","description":"Browse the Savanna Grill menu and place an order.","start_url":"/","display":"standalone","background_color":"#0a0a0a","theme_color":"#0a0a0a","lang":"en","scope":"/","orientation":"portrait","icons":[{"src":"/pwa-icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]}
